@@ -1,4 +1,4 @@
- Git development began in April 2005 after many developers of the Linux kernel
+Madhavareddy Git development began in April 2005 after many developers of the Linux kernel
  gave up access Madhav Bitkeeper, a proprietary source control management system 
 that had previously been used Madhav maintain the project.[10] The copyright holder
  of Bitkeeper, Larry McVoy, had withdrawn gratis use of the product after claiming
